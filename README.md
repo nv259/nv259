@@ -1,66 +1,46 @@
-### Hi there, I'm Nhat - aka [Nhat Nguyen][website] 👋 
+Hi 👋 My name is Nhat Nguyen
+============================
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+3rd year Computer Science student
+---------------------------------
 
-## I'm a Student, Part-time Employee and Developer!!
+* 🌍  I'm based in Vietnam
+* 🖥️  See my portfolio at [Vi3tNh4t.github.io](http://nv259.github.io/Vi3tNh4t.github.io/)
+* ✉️  You can contact me at [nguyenvietnhat.03@gmail.com](mailto:nguyenvietnhat.03@gmail.com)
+* 🚀  I'm currently working on [text2sql-lgesql](http://github.com/nv259/text2sql-lgesql/tree/main)
+* 🧠  I'm learning Machine Learning, Deep Learning and NLP Specialization...
+* 🤝  I'm open to collaborating on GFlowNets for DependencyParsing
+* ⚡  I'm class leader of my lovely classmates - KHTN2021 and (secretly Spiderman, but don't tell anyone).
 
-- 🔭 I just launched my first project: [Flight Tickets Management][https://github.com/nv259/SE104-QLVMB-5]!
-- 🌱 I’m currently learning about every fields about AI, and Software Engineer too!🤩
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Get excellent scores and have a better job
-- ⚡ Fun fact: I love to play sport and play guitar
+<a href="https://www.github.com/nv259" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/nv259?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Vi3tNh4t" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Vi3tNh4t?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-### Connect with me:
+### Skills
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UClLtQ9ALNx-rbz9xpGMr1gw" />][youtube] -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/nhatnv0378/" />][linkedin]
- -->
-<br />
 
-### Languages and Tools:
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-[<img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" />]
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-<!-- [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] -->
-<!-- <br /> -->
-<!-- <br /> -->
 
----
+### Socials
 
-### 📕 Latest Blog Posts
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100016257456645" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nv259" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nhatnv0378/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@nguyenvietnhat.03" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Vi3tNh4t" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-<!-- BLOG-POST-LIST:START -->
-- Currently Updating...
-<!-- BLOG-POST-LIST:END -->
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+<a href="http://www.github.com/nv259"><img src="https://github-readme-stats.vercel.app/api?username=nv259&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nv259's GitHub stats" /></a>
 
-<!--END_SECTION:activity-->
+<a href="http://www.github.com/nv259"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nv259&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</details>
+<b>Top Repositories</b>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<div width="100%" align="center"><a href="https://github.com/nv259/NNandDL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=NNandDL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nv259/NLP-Specialization" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=NLP-Specialization&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<br /><br /><br /><br /><br />
 
-</details>
-
-[facebook]: https://www.facebook.com/profile.php?id=100016257456645
-<!-- [course]: https://github.com/UIT-21520378/SS004.M16.CLC-SNAKE_GAME -->
-[twitter]: https://twitter.com/Vi3tNh4t
-[youtube]: https://www.youtube.com/channel/UClLtQ9ALNx-rbz9xpGMr1gw
-[instagram]: https://www.instagram.com/iamsunnguyen/
-[linkedin]: https://www.linkedin.com/in/nhatnv0378
+<div width="100%" align="center"><a href="https://github.com/nv259/RPF" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=RPF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nv259/SE104-QLVMB-5" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=SE104-QLVMB-5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
