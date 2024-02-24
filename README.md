@@ -36,11 +36,3 @@ src="https://img.shields.io/twitter/follow/Vi3tNh4t?logo=twitter&style=for-the-b
 <a href="http://www.github.com/nv259"><img src="https://github-readme-stats.vercel.app/api?username=nv259&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nv259's GitHub stats" /></a>
 
 <a href="http://www.github.com/nv259"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nv259&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/nv259/NNandDL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=NNandDL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nv259/NLP-Specialization" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=NLP-Specialization&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/nv259/RPF" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=RPF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nv259/SE104-QLVMB-5" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nv259&repo=SE104-QLVMB-5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
