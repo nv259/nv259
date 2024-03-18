@@ -1,4 +1,4 @@
-Hi 👋 My name is Nhat Nguyen
+LLHi 👋 My name is Nhat Nguyen
 ============================
 
 3rd year Computer Science student
@@ -33,13 +33,13 @@ src="https://img.shields.io/twitter/follow/Vi3tNh4t?logo=twitter&style=for-the-b
 <table>
   <tr>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api?username=LTBach&show_icons=true&theme=tokyonight&hide=issues'>
+      <img src='https://github-readme-stats.vercel.app/api?username=nv259&show_icons=true&theme=tokyonight&hide=issues'>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=LTBach&theme=tokyonight&hide=issues&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=nv259&theme=tokyonight&hide=issues&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
     </td>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LTBach&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nv259&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
     </td>
   </tr>
 </table>
