@@ -1,16 +1,15 @@
-LLHi 👋 My name is Nhat Nguyen
+Hi 👋 My name is Nhat Nguyen
 ============================
 
-3rd year Computer Science student
+3rd year Computer Science student at University of Information Technology - VNU HCM.
 ---------------------------------
 
-* 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [Vi3tNh4t.github.io](http://nv259.github.io/Vi3tNh4t.github.io/)
 * ✉️  You can contact me at [nguyenvietnhat.03@gmail.com](mailto:nguyenvietnhat.03@gmail.com)
 * 🚀  I'm currently working on [text2sql-lgesql](http://github.com/nv259/text2sql-lgesql/tree/main)
-* 🧠  I'm learning Machine Learning, Deep Learning and NLP Specialization...
-* 🤝  I'm open to collaborating on GFlowNets for DependencyParsing
-* ⚡  I'm class leader of my lovely classmates - KHTN2021 and (secretly Spiderman, but don't tell anyone).
+* 🧠  I'm learning Machine Learning, Deep Learning and NLP Specialization... and a little bit on Financial Markets (j4f)
+* 🤝  I'm open to collaborating on GFlowNets for DependencyParsing (...in progress...)
+* ⚡  I'm class leader of my lovely classmates - KHTN2021 (and secretly Spiderman, but don't tell anyone).
 
 <a href="https://www.github.com/nv259" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nv259?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Vi3tNh4t" target="_blank" rel="noreferrer"><img
