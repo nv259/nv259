@@ -1,7 +1,7 @@
 Hi 👋 My name is Nhat Nguyen
 ============================
 
-3rd year Computer Science student at University of Information Technology - VNU HCM.
+3rd year Computer Science student at UIT - VNU-HCM
 ---------------------------------
 
 * 🖥️  See my portfolio at [Vi3tNh4t.github.io](http://nv259.github.io/Vi3tNh4t.github.io/)
